@@ -25,5 +25,6 @@ I'm a Software Enthusiast. I’m passionate about software engineering and enjoy
   during "Introduction to Software Engineering" Tutorial
   
 ## W01 System Design
+- Notes: https://github.com/roman-kupar/eist_tutorial_w01_notes/blob/main/README.md
 - REST Example: https://github.com/roman-kupar/eist_tutorial_w01_rest_demo
 - gRPC Example: https://github.com/roman-kupar/eist_tutorial_w01_grpc_demo
