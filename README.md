@@ -19,10 +19,11 @@ I'm a Software Enthusiast. I’m passionate about software engineering and enjoy
 
 ---
 
-## If you know me from EIST SS26 Tutoring ⬇️
+# If you know me from EIST SS26 Tutoring ⬇️
 
 - Here I gathered all relevant sources and examples for the topics, that will be handled
   during "Introduction to Software Engineering" Tutorial
   
-# W01 System Design
+## W01 System Design
 - REST Example: https://github.com/roman-kupar/eist_tutorial_w01_rest_demo
+- gRPC Example: https://github.com/roman-kupar/eist_tutorial_w01_grpc_demo
