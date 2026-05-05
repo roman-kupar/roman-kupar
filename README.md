@@ -29,7 +29,7 @@ I'm a Software Enthusiast. I’m passionate about software engineering and enjoy
 - REST Example: https://github.com/roman-kupar/eist_tutorial_w01_rest_demo
 - gRPC Example: https://github.com/roman-kupar/eist_tutorial_w01_grpc_demo
 
-## W02 System Design 1 (Modulariy)
+## W02 System Design 1 (Modularity)
 - Notes: https://github.com/roman-kupar/eist_tutorial_w2_notes
 - Facade & Module example: https://github.com/roman-kupar/eist_tutorial_w02_facade_example
 - MVC & Observer pattern: https://github.com/roman-kupar/eist_tutorial_w02_mvc_observer_example
