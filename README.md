@@ -33,3 +33,7 @@ I'm a Software Enthusiast. I’m passionate about software engineering and enjoy
 - Notes: https://github.com/roman-kupar/eist_tutorial_w2_notes
 - Facade & Module example: https://github.com/roman-kupar/eist_tutorial_w02_facade_example
 - MVC & Observer pattern: https://github.com/roman-kupar/eist_tutorial_w02_mvc_observer_example
+
+## W03 System Design 2 (Perfomance)
+- Notes: https://github.com/roman-kupar/eist_tutorial_w03_notes
+- Java to Python: https://github.com/roman-kupar/eist_tutorial_w03_python_example
