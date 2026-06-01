@@ -22,7 +22,9 @@ I'm a Software Enthusiast. I’m passionate about software engineering and enjoy
 # If you know me from EIST SS26 Tutoring ⬇️
 
 - Here I gathered all relevant sources and examples for the topics, that will be handled
-  during "Introduction to Software Engineering" Tutorial
+  during "Introduction to Software Engineering" Tutorial.
+  (Disclaimer: these resources aren't official. They are created by me only for students to get more used to topics discussed in tutorials.
+  by any inconsistencies, please refer to lecture slides) 
   
 ## W01 System Design
 - Notes: https://github.com/roman-kupar/eist_tutorial_w01_notes/blob/main/README.md
@@ -37,3 +39,6 @@ I'm a Software Enthusiast. I’m passionate about software engineering and enjoy
 ## W03 System Design 2 (Perfomance)
 - Notes: https://github.com/roman-kupar/eist_tutorial_w03_notes
 - Java to Python: https://github.com/roman-kupar/eist_tutorial_w03_python_example
+
+## W04 System Desing 3 (Security)
+- Notes: https://github.com/roman-kupar/eist_tutorial_w04_notes/blob/main/README.md
