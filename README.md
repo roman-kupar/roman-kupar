@@ -1,4 +1,4 @@
-# Hey there 👋 My name is Roman.
+<img width="522" height="325" alt="image" src="https://github.com/user-attachments/assets/cd791b39-6c2b-4cdf-ba96-67b5f7c0ab09" /># Hey there 👋 My name is Roman.
 
 I'm a Software Enthusiast. I’m passionate about software engineering and enjoy building things, learning how systems work, and improving my technical skills every day.
 
@@ -42,3 +42,7 @@ I'm a Software Enthusiast. I’m passionate about software engineering and enjoy
 
 ## W04 System Desing 3 (Security)
 - Notes: https://github.com/roman-kupar/eist_tutorial_w04_notes/blob/main/README.md
+
+## W05 Software Testing
+- Notes: https://github.com/roman-kupar/eist_tutorial_w05_notes
+- JUnit & EasyMock example: https://github.com/roman-kupar/eist_tutorial_w05_software_testing
