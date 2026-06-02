@@ -1,4 +1,4 @@
-<img width="522" height="325" alt="image" src="https://github.com/user-attachments/assets/cd791b39-6c2b-4cdf-ba96-67b5f7c0ab09" /># Hey there 👋 My name is Roman.
+# Hey there 👋 My name is Roman.
 
 I'm a Software Enthusiast. I’m passionate about software engineering and enjoy building things, learning how systems work, and improving my technical skills every day.
 
