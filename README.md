@@ -46,3 +46,7 @@ I'm a Software Enthusiast. I’m passionate about software engineering and enjoy
 ## W05 Software Testing
 - Notes: https://github.com/roman-kupar/eist_tutorial_w05_notes
 - JUnit & EasyMock example: https://github.com/roman-kupar/eist_tutorial_w05_software_testing
+
+## W06 Program Analysis
+- Notes: https://github.com/roman-kupar/eist_tutorial_w06_notes
+- C overview: https://github.com/roman-kupar/c-overview
