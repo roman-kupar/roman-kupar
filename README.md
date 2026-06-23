@@ -54,3 +54,4 @@ I'm a Software Enthusiast. I’m passionate about software engineering and enjoy
 ## W07 Software Management, Build Systems, and DevOps
 - Notes: https://github.com/roman-kupar/eist_tutorial_w07_notes
 - git commands: https://github.com/roman-kupar/git-useful-commands
+- Bazel example: https://github.com/roman-kupar/bazel-example
